@@ -1,7 +1,7 @@
 ## Index
-[ThermoDeliver](https://github.com/brruhyan/brruhyanRobotics/tree/main/PID_Temperature_Control).
-[Sumobot](https://github.com/brruhyan/brruhyanRobotics/tree/main/Sumobot).
-[IoT-enalbed Wireless Control](https://github.com/brruhyan/brruhyanRobotics/tree/main/IoT_Enabled_Wireless_Control).
+[ThermoDeliver](https://github.com/brruhyan/brruhyanRobotics/tree/main/PID_Temperature_Control) <br>
+[Sumobot](https://github.com/brruhyan/brruhyanRobotics/tree/main/Sumobot) <br>
+[IoT-enalbed Wireless Control](https://github.com/brruhyan/brruhyanRobotics/tree/main/IoT_Enabled_Wireless_Control) <br>
 
 
 

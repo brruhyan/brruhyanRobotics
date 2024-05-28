@@ -1,2 +1,3 @@
 ## Robotics Project Portfolio
-- a compilation of robotics projects developed throughout my computer engineering academic life.
+Projects:
+- ThermoDeliver: A PID-controlled Sensor-driven Temperature Regulation System for Food Delivery
